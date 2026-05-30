@@ -40,4 +40,3 @@ permalink: /
 ## ✦ ติดต่อ
 
 - GitHub: [github.com/tida492547](https://github.com/tida492547)
-- Email: tidajaew10523@email.com
