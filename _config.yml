@@ -1,6 +1,7 @@
-title: นางสาวธิดา แจวสกุล ✿
-description: "นักศึกษาสาขา เทคโนโลยีสารสนเทศ"
+title: นางสาวธิดา แจวสกุล 🌸
+description: "นักศึกษาสาขาเทคโนโลยีสารสนเทศ"
 theme: minima
 
 minima:
-  skin: solarized
+  custom_css:
+    - assets/css/style.css
