@@ -1,6 +1,7 @@
 title: นางสาวธิดา แจวสกุล 🌸
 description: "นักศึกษาสาขาเทคโนโลยีสารสนเทศ"
 theme: minima
+index_page: README.md
 
 minima:
   custom_css:
