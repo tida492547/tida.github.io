@@ -65,4 +65,3 @@ CI/CD แบ่งออกเป็น 2 ส่วนหลัก
 
 ---
 
-*🔗 กลับไปหน้าหลัก → [Profile](https://username.github.io)*
