@@ -57,5 +57,3 @@ Microservices มาพร้อมความซับซ้อนของ Ne
 3. Microsoft. (2024). [*Microservices architecture style*](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 
 ---
-
-*🔗 กลับไปหน้าหลัก → [Profile](https://username.github.io)*
