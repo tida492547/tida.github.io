@@ -51,6 +51,6 @@ CI/CD แบ่งออกเป็น 2 ส่วนหลัก:
 
 ## References
 
-1. Red Hat. (2024). *What is CI/CD?* https://www.redhat.com/en/topics/devops/what-is-ci-cd
-2. Atlassian. (2024). *Continuous integration vs. delivery vs. deployment* https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
-3. GitHub. (2024). *GitHub Actions Documentation* https://docs.github.com/en/actions
+1. Red Hat. (2024). *What is CI/CD?*< https://www.redhat.com/en/topics/devops/what-is-ci-cd>
+2. Atlassian. (2024). *Continuous integration vs. delivery vs. deployment* <https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment>
+3. GitHub. (2024). *GitHub Actions Documentation* <https://docs.github.com/en/actions>
