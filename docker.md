@@ -58,6 +58,4 @@ docker compose up
 2. IBM. (2024). [*What is Docker?*](https://www.ibm.com/topics/docker)
 3. Docker Inc. (2024). [*Docker Documentation*](https://docs.docker.com/)
 
----
 
-*🔗 กลับไปหน้าหลัก → [Profile](https://username.github.io)*
